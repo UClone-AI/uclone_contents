@@ -15,7 +15,7 @@ Clone Studio allows you to design an AI clone with specific instructions, access
 * Log in to the Clone Studio platform via your account.  
 * Navigate to the "Create Clone" section to begin designing your AI clone.
 
-![](Screenshot%202025-03-04%20132756.jpg)
+![](https://uclone-ai.github.io/uclone_contents/Screenshot%202025-03-04%20132756.jpg)
 
 ---
 
