@@ -1,3 +1,3 @@
 # uclone_contents
 
-- Clone Studio Guide = clone_studio_user_manual.md
+- Clone Studio User Manual = clone_studio_user_manual.md
