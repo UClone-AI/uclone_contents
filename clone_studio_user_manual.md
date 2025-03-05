@@ -97,7 +97,7 @@ The "Instruction" section (as shown in the following screenshot) allows you to d
   * Use the slider to set the desired level.  
 * **Ability** (Checkboxes):
   
-    ![](https://uclone-ai.github.io/uclone_contents/ability.jpg)
+    ![](https://uclone-ai.github.io/uclone_contents/ability_new.jpg)
 
   * Options include:  
     * Search Google: Find information using Google Search  
