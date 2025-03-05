@@ -6,3 +6,7 @@ Clone Studio is a powerful platform for creating AI clones that can interact wit
 ## Overview
 Clone Studio allows you to design an AI clone with specific instructions, access levels, creativity settings, and abilities. The interface is divided into sections such as "Profile”(Name, Appearance, Description), "Instruction", and "Advanced Options”. Follow the steps below to create your clone.
 
+### 1. Accessing Clone Studio
+- Log in to the Clone Studio platform via your account.
+- Navigate to the "Create Clone" section to begin designing your AI clone.
+
