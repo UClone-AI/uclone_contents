@@ -25,7 +25,9 @@ Clone Studio allows you to design an AI clone with specific instructions, access
 
 The "Profile" section (as shown in the second screenshot) allows you to customize the appearance and details of your clone.
 
-* Profile Image:  
+* Profile Image:
+  ![](https://uclone-ai.github.io/uclone_contents/barista_profile.jpg)
+
   * Displays a default robot icon with a speech bubble.  
   * Options:  
     * **Upload Image**: Upload a custom image for the clone’s profile picture.  
@@ -41,7 +43,9 @@ The "Profile" section (as shown in the second screenshot) allows you to customiz
 * Description:  
   * A text field to provide a description of your clone, visible and searchable to other users.  
   * Character Limit: 0/1024 (up to 1024 characters).  
-* Intelligence:  
+* Intelligence:
+    ![](https://uclone-ai.github.io/uclone_contents/intelligence.jpg)
+
   * Select the intelligence level for your clone:  
     * Level 1.0 (default, selected)  
     * Level 2.0  
@@ -79,14 +83,18 @@ The "Instruction" section (as shown in the following screenshot) allows you to d
   * Default: Public (selected).  
 * **Advanced Options** (Button):  
   * Opens additional settings for fine-tuning your clone’s behavior.  
-* **Creativity Level**:  
+* **Creativity Level**:
+    ![](https://uclone-ai.github.io/uclone_contents/creativity.jpg)
+
   * Adjusts the clone’s creativity level on a scale from 1 to 5\.  
   * Options:  
     * 1: Minimal creativity  
     * 3: Neutral creativity (default, selected)  
     * 5: Maximum creativity  
   * Use the slider to set the desired level.  
-* **Ability** (Checkboxes):  
+* **Ability** (Checkboxes):
+      ![](https://uclone-ai.github.io/uclone_contents/ability.jpg)
+
   * Options include:  
     * Search Google: Find information using Google Search  
     * Search Document: Search the Document you’ve provided(txt, doc, pdf). Also called RAG file  
