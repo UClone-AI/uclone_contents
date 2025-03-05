@@ -1,19 +1,3 @@
-# Clone Studio Guide
-
-[Introduction](#introduction)
-
-[Overview](#overview)
-
-[1. Accessing Clone Studio](#accessing-clone-studio)
-
-[2. Creating a Clone](#creating-a-clone)
-
-[Step 1: Profile Section](#step-1:-profile-section)
-
-[Step 2: Instruction Section](#step-2:-instruction-section)
-
----
-
 # Clone Studio User Manual
 
 # Introduction 
