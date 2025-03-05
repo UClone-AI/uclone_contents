@@ -26,6 +26,7 @@ Clone Studio allows you to design an AI clone with specific instructions, access
 The "Profile" section (as shown in the second screenshot) allows you to customize the appearance and details of your clone.
 
 * Profile Image:
+  
   ![](https://uclone-ai.github.io/uclone_contents/barista_profile.jpg)
 
   * Displays a default robot icon with a speech bubble.  
@@ -44,6 +45,7 @@ The "Profile" section (as shown in the second screenshot) allows you to customiz
   * A text field to provide a description of your clone, visible and searchable to other users.  
   * Character Limit: 0/1024 (up to 1024 characters).  
 * Intelligence:
+  
     ![](https://uclone-ai.github.io/uclone_contents/intelligence.jpg)
 
   * Select the intelligence level for your clone:  
@@ -84,6 +86,7 @@ The "Instruction" section (as shown in the following screenshot) allows you to d
 * **Advanced Options** (Button):  
   * Opens additional settings for fine-tuning your clone’s behavior.  
 * **Creativity Level**:
+  
     ![](https://uclone-ai.github.io/uclone_contents/creativity.jpg)
 
   * Adjusts the clone’s creativity level on a scale from 1 to 5\.  
@@ -93,6 +96,7 @@ The "Instruction" section (as shown in the following screenshot) allows you to d
     * 5: Maximum creativity  
   * Use the slider to set the desired level.  
 * **Ability** (Checkboxes):
+  
       ![](https://uclone-ai.github.io/uclone_contents/ability.jpg)
 
   * Options include:  
