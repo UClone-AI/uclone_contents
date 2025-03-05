@@ -1,4 +1,3 @@
-# uclone_contents
 # Clone Studio Guide
 
 [Introduction](#introduction)
