@@ -140,8 +140,7 @@ The "Instruction" section (as shown in the following screenshot) allows you to d
 
 ## Troubleshooting
 
-* **Character Limit Exceeded**: Ensure text in Name, Appearance, and Description fields does not exceed the specified limits (2048 or 1024 characters).  
-* **Intelligence Upgrade**: If Level 3.0 or 4.0 is unavailable, upgrade your user account via the platform’s settings.  
+* **Character Limit Exceeded**: Ensure text in Name, Appearance, and Description fields does not exceed the specified limits (2048 or 1024 characters). 
 * **Image Upload Issues**: Verify file format and size requirements for custom profile images.  
 * **Connection Errors**: Ensure a stable internet connection when creating or editing clones.
 
