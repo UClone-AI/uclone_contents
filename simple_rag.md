@@ -8,6 +8,9 @@ To begin, you'll need to contact the UClone Builder: [https://chat.uclone.net/uc
 
 The UClone Builder will guide you through the initial setup process for creating your new clone.
 
+
+![](https://uclone-ai.github.io/uclone_contents/images/uclone_builder_thumbnail.jpg)
+
 ## 2. Providing Reference Data:
 
 UClone offers two ways to provide reference data for your AI:
