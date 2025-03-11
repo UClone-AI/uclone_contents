@@ -16,9 +16,11 @@ The UClone Builder will guide you through the initial setup process for creating
 UClone offers two ways to provide reference data for your AI:
 
 * **Google Drive Connection:**
-    * Create a folder named 'UClone' in your Google Drive. Ensure the Google account associated with this Drive is the same as your UClone login email.
+    * Create a folder named 'uclone' in your Google Drive. Ensure the Google account associated with this Drive is the same as your UClone login email.
     * Upload your reference documents (text or PDF) into this 'uclone' folder. Only text content will be used; images and other media will be ignored. Ensure the 'uclone' folder name uses lowercase letters.
     * Share the 'uclone' folder with the UClone service account, granting "viewer" permission: `docs-crawler-dev@uclone-422018.iam.gserviceaccount.com`
+
+![](https://uclone-ai.github.io/uclone_contents/images/share_crawler.jpg)
 
 * **Direct File Upload:**
     * In the Bot Studio, click the 'Clip' icon within the Reference Files section.
