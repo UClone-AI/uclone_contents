@@ -148,6 +148,6 @@ The "Instruction" section (as shown in the following screenshot) allows you to d
 
 **Contact Support**
 
-For further assistance, contact Clone Studio support via \[support@uclone.net (mailto:support@uclone.net)\].
+For further assistance, contact Clone Studio support via \[service@uclone.net (mailto:service@uclone.net)\].
 
 [UClone Introduction](./README.md)
