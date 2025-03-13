@@ -30,11 +30,11 @@ body {
 }
 
 .main-top a {
+    display: inline-block;
     text-align: center;
-    margin: 10px 0;
     font-weight: 700;
     color: #222;
-    font-size: 1.7em;
+    font-size: 28px;
 }
 
 
