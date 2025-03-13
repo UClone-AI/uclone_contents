@@ -1,23 +1,23 @@
 /* 전체 문서 기본 폰트 */
 body {
-    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Roboto', 'Segoe UI', 'Arial', sans-serif;
     line-height: 1.6;
     font-size: 16px;
     color: #333;
     background-color: #f9f9f9;
     padding: 20px;
+    max-height: 800px;
+    margin: 0 auto;
 }
 
 /* 제목 스타일 (Markdown #, ##, ### 등) */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Playfair Display', 'Georgia', serif;
     font-weight: 700;
     color: #222;
 }
 
 /* 본문 (일반 문장 스타일) */
 p {
-    font-family: 'Merriweather', 'Georgia', serif;
     font-size: 18px;
     line-height: 1.8;
     margin-bottom: 15px;
@@ -34,7 +34,6 @@ pre, code {
 
 /* 목록 스타일 */
 ul, ol {
-    font-family: 'Inter', 'Arial', sans-serif;
     font-size: 16px;
     margin-left: 20px;
 }
