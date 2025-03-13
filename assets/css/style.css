@@ -1,5 +1,4 @@
-/* 전체 문서 기본 폰트 */
-body {
+html, body {
     font-family: 'Roboto', 'Segoe UI', 'Arial', sans-serif;
     line-height: 1.6;
     font-size: 16px;
@@ -38,20 +37,17 @@ body {
 }
 
 
-/* 제목 스타일 (Markdown #, ##, ### 등) */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
     color: #222;
 }
 
-/* 본문 (일반 문장 스타일) */
 p {
     font-size: 18px;
     line-height: 1.8;
     margin-bottom: 15px;
 }
 
-/* 코드 블록 스타일 */
 pre, code {
     font-family: 'Fira Code', 'Courier New', monospace;
     background-color: #272822;
@@ -60,13 +56,11 @@ pre, code {
     border-radius: 5px;
 }
 
-/* 목록 스타일 */
 ul, ol {
     font-size: 16px;
     margin-left: 20px;
 }
 
-/* 링크 스타일 */
 a {
     color: #007acc;
     text-decoration: none;
@@ -76,7 +70,6 @@ a:hover {
     text-decoration: underline;
 }
 
-/* 강조 (Bold, Italic) */
 strong {
     font-weight: bold;
     color: #000;
@@ -87,7 +80,6 @@ em {
     color: #555;
 }
 
-/* 테이블 스타일 */
 table {
     width: 100%;
     border-collapse: collapse;
@@ -111,5 +103,4 @@ table th {
         overflow-x: auto;
         display: block;
     }
-
 }
