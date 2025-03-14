@@ -34,6 +34,11 @@ UClone offers two ways to provide reference data for your AI:
 
 Once you've configured your AI, click the "Continue" button to finalize the creation process. Your RAG-enabled AI will then be ready to interact with users, drawing upon the provided reference data to generate informed and relevant responses.
 
+## 4. Agentic RAG:
+
+UClone provide document search tools. Add instruction on your Clone to utilize agent RAG workflow. Your clone will automatically search documents when it is necessary based upon conversation context.
+Take a look at the [Using Tools in UClone](./uclone_toolsd)
+
 If you have further questions, please contact the UClone Help Desk: [https://chat.uclone.net/uclone/messages/@uclone_help_desk](https://chat.uclone.net/uclone/messages/@uclone_help_desk)
 
 [UClone Introduction](https://docs.uclone.net/)
