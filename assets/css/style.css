@@ -107,6 +107,7 @@ table th {
     }
     .logo-image {
         height: 19px;        /* Or any desired width */
+        padding-bottom: 4px; /* Adjust as needed */
     }
 
     .container {
