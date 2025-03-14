@@ -102,6 +102,9 @@ table th {
     html, body {
         font-size: 14px;
     }
+    .container {
+        padding-top: 50px;
+    }
     .main-top a {
         font-size: 1.2rem;
     }
