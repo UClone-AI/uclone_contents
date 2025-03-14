@@ -150,4 +150,4 @@ The "Instruction" section (as shown in the following screenshot) allows you to d
 
 For further assistance, contact Clone Studio support via \[service@uclone.net (mailto:service@uclone.net)\].
 
-[UClone Introduction](./README.md)
+[UClone Introduction](https://docs.uclone.net/)

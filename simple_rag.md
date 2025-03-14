@@ -36,4 +36,4 @@ Once you've configured your AI, click the "Continue" button to finalize the crea
 
 If you have further questions, please contact the UClone Help Desk: [https://chat.uclone.net/uclone/messages/@uclone_help_desk](https://chat.uclone.net/uclone/messages/@uclone_help_desk)
 
-[UClone Introduction](./README.md)
+[UClone Introduction](https://docs.uclone.net/)
