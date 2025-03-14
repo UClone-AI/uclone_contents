@@ -106,6 +106,10 @@ table th {
     html, body {
         font-size: 14px;
     }
+    .logo-image {
+        width: 23px;        /* Or any desired width */
+    }
+
     .container {
         padding-top: 50px;
     }
