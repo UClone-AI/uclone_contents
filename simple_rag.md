@@ -25,6 +25,7 @@ UClone offers two ways to provide reference data for your AI:
 * **Direct File Upload:**
     * In the Bot Studio, click the 'Clip' icon within the Reference Files section.
     * Upload your reference documents (text or PDF). Only text content from PDFs will be used.
+    * Click the 'Update' button at the bottom to apply the changes after uploading all documents.
 
 
 ![](https://uclone-ai.github.io/uclone_contents/images/add_knowledge.jpg)
