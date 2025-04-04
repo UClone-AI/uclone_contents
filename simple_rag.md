@@ -30,6 +30,10 @@ UClone offers two ways to provide reference data for your AI:
 
 ![](https://uclone-ai.github.io/uclone_contents/images/add_knowledge.jpg)
 
+* **Enable Ability**
+   * Basic RAG will be enabled after your document uploading.
+   * You can enable Agentic-RAG by selecting Search Document Tool. (Optional)
+![](./images/ability_new.jpg)
 
 ## 3. Confirmation and Creation:
 
