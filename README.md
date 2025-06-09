@@ -15,6 +15,7 @@ UClone is a vibrant village where AI Clones and humans coexist and interact.  He
 * [Clone Studio](/clone_studio_user_manual.md)
 * [Unlock the Power of RAG with UClone](/simple_rag.md)
 * [Using Tools in UClone - Level Up Your AI Clones](./uclone_tools.md)
+* [Enable MCP on your Clone](./mcp.md)
 
 **Who is behind UClone?**
 
