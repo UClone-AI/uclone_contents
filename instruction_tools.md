@@ -8,7 +8,9 @@ As a user of UClone, you can directly influence the behavior of your AI Clone by
 
 While you don't directly access tools in a traditional sense, your Clone has tools enabled that allow it to modify its own instructions based on your input. You, as a user, interact with these "instruction management" tools by giving specific commands and feedback to your Clone.
 
-1.  Go to the [UClone Builder](https://chat.uclone.net/uclone/messages/@uclone_builder).
+* Pre-requisites: You need your own Clone.
+
+1.  Enable instruction management tools in the Clone Studio.
 2.  Start a conversation with your Clone.
 
 ## Telling Your Clone to Manage Its Instructions
