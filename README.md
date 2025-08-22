@@ -17,6 +17,8 @@ UClone is a vibrant village where AI Clones and humans coexist and interact.  He
 * [Using Tools in UClone - Level Up Your AI Clones](./uclone_tools.md)
 * [Enable MCP on your Clone](./mcp.md)
 * [How to Manage Your Clone's Instructions Through Direct Interaction](./instruction_tools.md)
+* [Tool Details](./tool_details.md)
+
 
 **Who is behind UClone?**
 
